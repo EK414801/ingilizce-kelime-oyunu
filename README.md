@@ -2,6 +2,8 @@
 
 Bu proje, kullanıcıların İngilizce kelime dağarcığını eğlenceli ve etkileşimli bir şekilde geliştirmesi için tasarlanmış, ses tanıma özellikli bir terminal oyunudur. Yazılım, yetkisiz kullanımı önlemek amacıyla bir Lisans Dosyası doğrulama sistemi ile çalışmaktadır.
 
+sürüm = 3.4
+
 🌟 Özellikler
 
 Sesli Etkileşim: Cevaplar klavyeden yazılmaz, mikrofon aracılığıyla sesli olarak söylenir.
